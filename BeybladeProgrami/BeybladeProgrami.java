@@ -7,7 +7,7 @@ public class BeybladeProgrami {
 
     public static void main(String[] args) {
         
-        // Polimorphism kullanarak beyblade programı...
+        // Polimorphism kullanarak beyblade programı ^_^ ...
         System.out.println("Beyblade programına hoşgeldiniz...");
         System.out.println("Çıkış için q ya basınız....");
         Scanner scan = new Scanner(System.in);
