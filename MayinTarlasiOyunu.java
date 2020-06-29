@@ -1,3 +1,4 @@
+// Mayın Tarlası Oyunu ^_^ :)
 import java.util.Scanner;
 class mayinTarlasi {
     
@@ -65,7 +66,6 @@ public class MayinTarlasiOyunu{
             }
             System.out.println("Tahmin: " + satir +"-" + sutun);
         }while(cikis == false);  //true olsaydı mantık hatası olurdu
-        System.out.println("Puanınız: " + dogruTahminSayisi);
-    }
-    
+        System.out.println("Puanınız: " + dogruTahminSayisi);  
+    } 
 }
