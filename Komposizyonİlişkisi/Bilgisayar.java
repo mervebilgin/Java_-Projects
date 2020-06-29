@@ -34,8 +34,4 @@ public class Bilgisayar {
     public void setAnakart(AnaKart anakart) {
         this.anakart = anakart;
     }
-    
-    
-    
- 
 }
