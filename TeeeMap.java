@@ -22,7 +22,7 @@ public class Main {
        ve eğer daha önce o karakterimiz varsa o karakterin değerini bir attıracağız...
        */
        for(int i=0; i<cumle.length(); i++) {
-           char c = cumle.charAt(i); //Cümlmizin o andaki kaakteri..
+           char c = cumle.charAt(i); //Cümlemizin o andaki karakteri..
            if(frekans.containsKey(c)) {
                frekans.replace(c, frekans.get(c)+1); // O Key'e karşılık gelen Value'yi  arttırıyoruz.. 
            }
